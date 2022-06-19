@@ -1,21 +1,21 @@
 ---
 # Display name
-title: 吳恩達
+title: Lucia Darrow
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Lucia Darrow
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Content Marketing Data Analyst
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: RepRisk AG
+    url: 'https://www.reprisk.com'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Industrial Engineering
+      institution: Oregon State University
+      year: 2017
+    - course: BS in Mathematics
+      institution: Dickinson College
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,6 +66,6 @@ user_groups:
   - Authors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lucia is a data visualization expert with experience implementing analytical models in a variety of environments, including healthcare, manufacturing, defense, and finance. An industrial engineer by training, Lucia also has extensive experience with Lean manufacturing and the modeling of complex systems. In a professional role as a learning and development lead and as a community events organizer, she has facilitated many successful networking events, tutorials, and classes in a wide range of analytics topics. Lucia is actively involved in the analytics community through RLadies and recently co-organized the first Vancouver, BC Datajam. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She holds a Master of Science in Industrial Engineering from Oregon State University and a Bachelor of Science in Mathematics from Dickinson College. Lucia is currently a Content Marketing Data Analyst with RepRisk AG, an environmental, social, and corporate governance (ESG) data science company based in Zurich, Switzerland. 
