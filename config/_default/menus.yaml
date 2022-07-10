@@ -4,9 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Book
-    url: tour
-    weight: 10
   - name: News/Events
     url: post
     weight: 20
@@ -19,6 +16,4 @@ main:
   - name: Where to Buy
     url: buy
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+
