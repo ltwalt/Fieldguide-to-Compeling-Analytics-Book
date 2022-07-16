@@ -21,4 +21,8 @@ I'm excited to announce I have a book being released this summer. It is the firs
 
 [<img src="barnes-and-noble-logo.jpg" alt="drawing" width="300"/>](https://www.barnesandnoble.com/w/field-guide-to-compelling-analytics-walter-degrange/1141466040?ean=9781032065250)
 
+[<img src="093020-Bookshop-Blog.png" alt="drawing" width="300"/>](https://bookshop.org/books/field-guide-to-compelling-analytics/9781032065250)
+
+[<img src="routledge-logo.jpg" alt="drawing" width="300"/>](https://www.routledge.com/Field-Guide-to-Compelling-Analytics/DeGrange-Darrow/p/book/9781032065)
+
 
