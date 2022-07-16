@@ -18,7 +18,7 @@ design:
 ---
 
 <br>
-<font size="2"> 
+<font size="4"> 
 **Field Guide to Compelling Analytics** is written for Analytics Professionals (APs) who want to increase their probability of success in implementing analytical solutions. In the past, soft skills such as presentation and persuasive writing techniques have been the extent of teaching junior APs how to effectively communicate the value of analytical products. However, there are other aspects to success such as trust and experience that may play a more important role in convincing fellow APs, clients, advisors, and leadership groups that their analytic solutions will work.
 
 This book introduces the formula ‘Analytics + Trust + Communication + Experience > Convince Them’ to illustrate an AP’s ability to convince a stakeholder. The ‘Convince Me’ stakeholders might be an analytics team member, team lead, decision-maker, or senior leader that are either internal or external to the AP’s organization. Whoever they are, this formula represents a concise, digestible, and above all practical means to increase the likelihood that you will be able to persuade them of the value of your analytical product.
