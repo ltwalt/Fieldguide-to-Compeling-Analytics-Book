@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Walt DeGrange
+title: Walt DeGrange
 
 # Username (this should match the folder name)
 authors:
