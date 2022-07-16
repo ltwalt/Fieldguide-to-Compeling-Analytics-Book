@@ -3,7 +3,7 @@ title: "Implementing Analytics: Change Leadership For Analytics Professionals"
 subtitle: Podcast Interview - MORS Talk
 summary: Lucia and I get to discuss our upcoming book, the Field Guide to Compelling Analytics.
 authors:
-- Walt
+- admin
 - Lucia Darrow
 tags: [analytics, book, MORS]
 categories: [podcast]
