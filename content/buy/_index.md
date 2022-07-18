@@ -14,7 +14,7 @@ draft: false
 
 ---
 
-I'm excited to announce I have a book being released this summer. It is the first book for both myself and co-author Lucia Darrow. The book is titled the Field Guide to Compelling Analytics. It focuses on the traits that are important to individual analytics professionals. We both felt that most analytics books concentrate on the organization or more experienced analytics professionals. We think our book is the perfect manual for anyone starting in the field or who wants to level up their analytics game.
+We are excited to announce the release of our first book. It focuses on the traits that are important to individual analytics professionals. We both felt that most analytics books concentrate on the organization or more experienced analytics professionals. We think our book is the perfect manual for anyone starting in the field or who wants to level up their analytics game.
 
 
 [<img src="Amazon_logo.png" alt="Amazon" width="300"/>](https://www.amazon.com/Field-Compelling-Analytics-Chapman-Studies/dp/1032065257/ref=sr_1_1?crid=1VXQQUIGCVD3Y&keywords=walter+degrange&qid=1654288663&sprefix=walter+degrange%2Caps%2C85&sr=8-1)
