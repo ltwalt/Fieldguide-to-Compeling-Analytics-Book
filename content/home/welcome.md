@@ -28,7 +28,7 @@ This book introduces the formula
 
 </font>
 
-  <img src="Main_Equation.png" alt="Equation" style="width:auto;">
+  <img src="Main_Equation.png" alt="Equation"  width="300"/>
 
 <font size="4">
 
