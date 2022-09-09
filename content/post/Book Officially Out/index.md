@@ -26,4 +26,4 @@ image:
 projects: []
 ---
 
-The Field Guide to Compelling Analytics is out everywhere! Just got my hardcopy versions today in the mail. I think the book is the perfect size to fit into the same size pocket as you would use for the iPhone 14.
+The Field Guide to Compelling Analytics is out everywhere! Just got my hard copy versions today in the mail. I think the book is the perfect size to fit into the same size pocket as you would use for the iPhone 14.
