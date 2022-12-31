@@ -37,8 +37,8 @@ Dr. Roth has worked tirelessly to improve the not only the NEAD analytical model
 
 Interested in finding out more about Dr. Roth’s analytical projects? He is a prolific blogger and we used his blog as a source for the book[^2]. NEAD was nominated for the 2014 INFORMS Franz Edelman Award for Achievement in Operations Research and the Management Sciences[^3]. He also did an interview for INFORMS in the summer of 2021 that covers the challenges implementing the NEAD model in the United States and now globally[^4].  
 
-[^1] “Al Roth, Professor of Economics, Stanford University.” Accessed December 31, 2022. http://web.stanford.edu/~alroth/.  
-[^2] http://marketdesigner.blogspot.com  
-[^3] Anderson, Ross, Itai Ashlagi, David Gamarnik, Michael Rees, Alvin E. Roth, Tayfun Sönmez, and M. Utku Ünver. “Kidney Exchange and the Alliance for Paired Donation: Operations Research Changes the Way Kidneys Are Transplanted.” INFORMS Journal on Applied Analytics 45, no. 1 (February 1, 2015): 26–42. doi:10.1287/inte.2014.0766.  
-[^4] Kidney Exchange: An Operations Perspective, a Webinar with Al Roth, 2021. https://www.youtube.com/watch?v=4NbJTcfN6UA.
+[^1]: “Al Roth, Professor of Economics, Stanford University.” Accessed December 31, 2022. http://web.stanford.edu/~alroth/.  
+[^2]: http://marketdesigner.blogspot.com  
+[^3]: Anderson, Ross, Itai Ashlagi, David Gamarnik, Michael Rees, Alvin E. Roth, Tayfun Sönmez, and M. Utku Ünver. “Kidney Exchange and the Alliance for Paired Donation: Operations Research Changes the Way Kidneys Are Transplanted.” INFORMS Journal on Applied Analytics 45, no. 1 (February 1, 2015): 26–42. doi:10.1287/inte.2014.0766.  
+[^4]: Kidney Exchange: An Operations Perspective, a Webinar with Al Roth, 2021. https://www.youtube.com/watch?v=4NbJTcfN6UA.
 
