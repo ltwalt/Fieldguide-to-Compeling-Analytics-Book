@@ -14,8 +14,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "\"Alvin E. Roth in Stockholm 2012.\" From Wikimedia Commons.
-This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License"
+  caption: "\"Alvin E. Roth in Stockholm 2012.\" From Wikimedia Commons. This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License"
   focal_point: ""
 
 # Projects (optional).
