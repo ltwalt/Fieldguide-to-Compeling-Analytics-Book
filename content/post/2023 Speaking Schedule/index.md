@@ -26,8 +26,8 @@ image:
 projects: []
 ---
 
-|            **Date**            |  **Location**  |                                                        **Event**                                                       |   **Comments**  |
+|            **Date/Time**            |  **Location**  |                                                        **Event**                                                       |   **Comments**  |
 |:------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------:|:---------------:|
 | Saturday, March 18             | Raleigh, NC    | [Research Triangle Analytics - Analytics Forward](https://www.meetup.com/research-triangle-analysts/events/291273123/) | Keynote Speaker |
 | Wednesday, March 29            | Wilmington, NC | [UNC-Wilmington - Business Week](https://csb.uncw.edu/bw/index.html)                                                   | Presenter       |
-| April 17, 1:50 MDT, Cottonwood 2 room | Aurora, CO     | [INFORMS Business Analytics Conference](https://meetings.informs.org/wordpress/analytics2023/)                         | Presenter       |
+| April 17, 1:50 MDT | Aurora, CO     | [INFORMS Business Analytics Conference](https://meetings.informs.org/wordpress/analytics2023/)                         | Presenter, Cottonwood 2 room       |
