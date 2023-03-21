@@ -25,6 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+As the spring season fast approaches, we are delighted to invite you to a series of speaking engagements in support of my analytics book. We will be discussing the insights posed in our book and how they can help people become better Analytics Professionals. Come join us this season and discover how Analytics Professionals can use their skills to make a real difference in the world!
 
 |            **Date/Time**            |  **Location**  |                                                        **Event**                                                       |   **Comments**  |
 |:------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------:|:---------------:|
