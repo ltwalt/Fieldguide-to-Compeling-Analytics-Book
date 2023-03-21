@@ -1,7 +1,7 @@
 ---
 title: "Analytics Forward - Great Question"
 subtitle: "Did any of our book research identify anything specific for female and minority APs?"
-summary: "At a recent presentation, the speaker received an interesting question from a young female AP about what insights they had uncovered related to actions females and minorities could take in practice analytics. Unfortunately, their research didn't reveal anything directly related to this topic as most of the research dated back to the 1970s-1990s and didn't include sex or race as variables. Despite this, they believe focusing on techniques mentioned in their book can help anyone - regardless of gender or race - with imposter syndrome and building trust, rapport, and outside experience support when necessary. Let's hope more researchers look into these areas in the future."
+summary: "At a recent presentation, Walt received an interesting question from a young female AP about what insights they had uncovered related to actions females and minorities could take in practice analytics. Unfortunately, our research didn't reveal anything directly related to this topic as most of the research dated back to the 1970s-1990s and didn't include sex or race as variables. Despite this, we believe focusing on techniques mentioned in their book can help anyone - regardless of gender or race - with imposter syndrome and building trust, rapport, and outside experience support when necessary. Let's hope more researchers look into these areas in the future."
 authors:
   - admin
 tags: [analytics, book, Research Triangle Analytics, females, minorities]
