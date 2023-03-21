@@ -6,8 +6,8 @@ authors:
   - admin
 tags: [analytics, book, Research Triangle Analytics, females, minorities]
 categories: [book]
-date: "2022-03-21T12:00:00"
-lastMod: "2022-03-21T12:00:00"
+date: "2023-03-21T12:00:00"
+lastMod: "2023-03-21T12:00:00"
 featured: true
 draft: false
 
