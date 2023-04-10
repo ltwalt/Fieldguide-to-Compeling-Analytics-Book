@@ -35,5 +35,5 @@ I first heard of Cassie when I was watching a webinar she did on explaining mach
 If you want a good guide on applying analytics in the real world, check out Cassie's blog and YouTube Channel today!
 
 [Cassie on Medium](https://medium.com/@kozyrkov)  
-[Cassie YouTube Channel](https://medium.com/@kozyrkov)
+[Cassie's YouTube Channel](https://medium.com/@kozyrkov)
 
