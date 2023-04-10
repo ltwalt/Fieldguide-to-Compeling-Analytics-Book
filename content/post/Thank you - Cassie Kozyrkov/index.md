@@ -28,7 +28,7 @@ projects: []
 
 Sometimes people inspire you to create content for a book. Dr. Cassie Kozyrkov was one of those people for Lucia and me. We both admired Cassie's emphasis on the application of data science. Her focus on applying the concepts and overcoming the challenges made an impact. Our journey to the deepest part of the ocean was inspired by Cassie's rocket ship example and is a Medium viral post. The original plan was to quote Cassie's post; unfortunately, we ran out of time before the book's publication date.  
 
-Cassie is the Chief Decision Scientist at Google and one of the most respected people in the data science community. She has a Ph.D. in Psychology and Neuroscience from Duke University and is an active member of the data science community. She frequently blogs and speaks about decision-making, machine learning, and other topics related to data science.  
+Cassie is the Chief Decision Scientist at Google and one of the most respected people in the data science community. She has a Ph.D. in Psychology and Neuroscience from Duke University and frequently blogs and speaks about decision-making, machine learning, AI, and other topics related to data science.  
 
 I first heard of Cassie when I was watching a webinar she did on explaining machine learning. I was immediately impressed by her knowledge and ability to communicate complex concepts in a way that was easy to understand. I knew then that I wanted to learn more from her. And learn more I did. I followed Cassie's blog, read her articles, and watched her videos. Each time, I was blown away by her insights and ability to make complex topics accessible to everyone.  
 
