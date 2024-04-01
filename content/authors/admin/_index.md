@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: CANA Director of Analytics Capabilities
+role: CANA Senior Director of Analytics
 
 # Organizations/Affiliations
 organizations:
@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:walter.degrange@gmail.com  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ltwalt
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/ltwalt
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/waltdegrange/
@@ -62,7 +62,7 @@ social:
   link: https://github.com/ltwalt
 - icon: mastodon
   icon_pack: fab
-  link: https://mastodon.social/@ltwalt@vivaldi.net
+#   link: https://mastodon.social/@ltwalt@vivaldi.net
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -79,4 +79,4 @@ user_groups:
 - Authors
 ---
 
-Walt DeGrange is the Director of Analytics Capabilities for CANA. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Department of Defense, Atlanta Blaze Major League Lacrosse (MLL) team, and several commercial organizations. Walt also teaches professional analytics courses for both INFORMS and MORS.
+Walt DeGrange is the Senior Director of Analytics for CANA. He recruits, develops, and enables a team of analytics professionals to produce high-level analytics products across federal and commercial domains including operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with several organizations across the Department of Defense, a Major League Lacrosse (MLL) team, and several commercial organizations. Walt teaches professional analytics courses for both INFORMS and Military Operations Research Society (MORS). He also wrote the book [**Field Guide to Compelling Analytics**](https://fieldguidetocompellinganalytics.com) with Lucia Darrow focusing on how to encourage different audiences to trust and use analytics. Walt was awarded the [2023 MORS Vance R. Wanner Memorial Award](https://www.mors.org/Professional-Development/Awards/Vance-R-Wanner-Memorial-Award) for service to MORS and contributions to Military Operations Research and is currently serving on the MORS Board of Directors.
